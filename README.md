@@ -1,11 +1,4 @@
-# Artem Senin
-## Front-end Developer
+# Катерина Григорьева
+## UX | UI Дизайнер
 
-Phone: +79119042477
-
-Email: artemee.senin@yandex.ru
-
-
-### CV 
-
-My experience [in more detail](https://artemeesenin.github.io)
+[Больше о моем опыте](https://ekaterinagrigorieva.github.io/)
