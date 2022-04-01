@@ -12,7 +12,7 @@ body {
 
 @include print() {
   @page {
-    margin: 1.2cm .5cm 1.6cm;
+    margin: .2cm .5cm .2cm;
     size: A4;
   }
 
