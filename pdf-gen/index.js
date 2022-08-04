@@ -23,7 +23,7 @@ async function generatePDF() {
 }
 
 async function savePDF() {
-  return fs.writeFile(path.resolve(__dirname, '../public/Katerina Grigoreva, UI|UX Designer.pdf'), await generatePDF(), () => {
+  return fs.writeFile(path.resolve(__dirname, '../public/Katerina Lemann, Web Designer.pdf'), await generatePDF(), () => {
   });
 }
 
